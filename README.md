@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaybutani006&label=Profile%20views&color=0e75b6&style=flat" alt="jaybutani006" /> </p>
 <img width="100%" height="300px" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif"/>
-<h2 align="center">Hi 👋, I'm Jay Butani</h2>
+<h1 align="center">Hi 👋, I'm Jay Butani</h1>
 <h3 align="center">A passionate MERN stack developer instrested in Ai/Ml from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
 
